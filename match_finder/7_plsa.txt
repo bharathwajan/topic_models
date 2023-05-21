@@ -1,0 +1,17 @@
+
+ Number of topics : 7 
+ N-largest : 4 
+ Match Threshold :60 
+ accuracy : 0.5685447912444265
+ Number of topics : 7 
+ N-largest : 4 
+ Match Threshold :80 
+ accuracy : 0.08731252533441426
+ Number of topics : 7 
+ N-largest : 4 
+ Match Threshold :100 
+ accuracy : 0.08731252533441426
+ Number of topics : 7 
+ N-largest : 6 
+ Match Threshold :100 
+ accuracy : 0.29890555330360763

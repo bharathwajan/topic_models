@@ -1,0 +1,39 @@
+
+ Number of topics : 10 
+ N-largest : 4 
+ Match Threshold :60 
+ accuracy : 0.2301731996353692
+ Number of topics : 10 
+ N-largest : 4 
+ Match Threshold :80 
+ accuracy : 0.015116985718626557
+ 
+ Number of topics : 10 
+ N-largest : 4 
+ Match Threshold :100 
+ accuracy : 0.015116985718626557
+ 
+ Number of topics : 10 
+ N-largest : 6 
+ Match Threshold :60 
+ accuracy : 0.7578243694925555
+
+ Number of topics : 10 
+ N-largest : 6 
+ Match Threshold :80 
+ accuracy : 0.259039805530234
+
+ Number of topics : 10 
+ N-largest : 6 
+ Match Threshold :100 
+ accuracy : 0.018307505317532665
+
+ Number of topics : 10 
+ N-largest : 8 
+ Match Threshold :80 
+ accuracy : 0.726223032512914
+
+ Number of topics : 10 
+ N-largest : 8 
+ Match Threshold :100 
+ accuracy : 0.08644788817988454
